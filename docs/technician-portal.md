@@ -1,9 +1,10 @@
-##Technician Portal Design & Flow
+# Technician Portal Design & Flow
 
-#Overview
+## Overview
 The Technician Portal is a web-based interface designed to help technicians quickly search for caravan details using the VIN number and access important information such as parts and repair instructions.
 
-#Key Sections:
+## Key Sections:
+
 VIN Search (Top Section)
 
 Purpose: Allows technicians to input or scan a VIN to retrieve relevant caravan details.
@@ -36,7 +37,7 @@ A table displaying the part name, part number, and description.
 
 Each part includes a clickable link to view repair instructions.
 
-#Flow
+## Flow
 Technician enters a VIN number in the search bar and clicks "Search".
 
 The system retrieves and displays the caravan details.
@@ -45,7 +46,7 @@ Technician can scroll through the list of parts.
 
 Clicking on a part opens a detailed view (future feature for repair instructions).
 
-#Screenshots:
+## Screenshots:
 ![Technician page layout](https://github.com/user-attachments/assets/cfe39472-68c6-4f87-a101-7ef9250a2adf)
 
 
