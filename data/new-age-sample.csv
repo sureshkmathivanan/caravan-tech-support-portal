@@ -1,1 +1,25 @@
+VIN,Model,Year,Part Name,Part Code,Part Description,Repair Instructions
+6T9T21V86L07A1234,Big Red 22E,2023,Awning Motor,BR-AW-001,Motor for extending/retracting awning,"Check fuse, inspect wiring, replace motor using 10mm spanner."
+6T9T21V86L07A1234,Big Red 22E,2023,Fridge Unit,BR-FR-012,12V/240V compressor fridge,"Test power, clean condenser coils, replace if not cooling."
+6T9T21V86L07A1234,Big Red 22E,2023,Water Pump,BR-WP-008,12V pump for freshwater,"Shut off supply, disconnect tubes, replace and test."
+6T9T21V86L07A1234,Big Red 22E,2023,Battery Charger,BR-BC-010,30A caravan battery charger,"Check fuse, test voltage output, replace unit if faulty."
+6T9T21V86L07A1234,Big Red 22E,2023,Roof Vent Fan,BR-RV-004,12V exhaust fan in roof,"Remove vent screws, unplug wiring, replace with compatible fan."
+6T9T21V86L07A1234,Big Red 22E,2023,Air Conditioner,BR-AC-005,Roof-mounted Dometic AC,"Check remote signal, clean filter, replace circuit board if no cooling."
+6T9T21V86L07A1234,Big Red 22E,2023,LED Ceiling Light,BR-LG-011,Interior 12V LED panel,"Unscrew lens, test wiring, replace unit if LEDs are dead."
+6T9T21V86L07A1234,Big Red 22E,2023,TV Antenna,BR-TV-006,Wind-up signal antenna,"Inspect crank mechanism, lubricate gears, replace base if cracked."
+6T9T21V86L07A1234,Big Red 22E,2023,Brake Controller,BR-BK-002,Electronic trailer brake unit,"Check controller fuse, test trailer connection, replace module."
+6T9T21V86L07A1234,Big Red 22E,2023,Hot Water System,BR-HW-015,Gas/electric water heater,"Purge gas line, test thermostat, replace igniter if clicking fails."
+
+6T9T21V86L07A5678,Oz Classic 20,2022,Toilet Cassette,OC-TC-004,Cassette-style waste tank,"Access panel, unlock and remove, sanitize before replacement."
+6T9T21V86L07A5678,Oz Classic 20,2022,Solar Controller,OC-SC-002,MPPT solar regulator,"Check LED indicators, verify input/output volts, replace if stuck."
+6T9T21V86L07A5678,Oz Classic 20,2022,Control Panel,OC-CP-007,Touchscreen command center,"Reset firmware, test voltage, replace main board if dead."
+6T9T21V86L07A5678,Oz Classic 20,2022,Inverter,OC-IN-003,12V to 240V 2000W inverter,"Check fuse, test AC output, replace relay or board as needed."
+6T9T21V86L07A5678,Oz Classic 20,2022,Gas Regulator,OC-GR-005,Low pressure regulator,"Shut off bottle, replace regulator and test for leaks."
+6T9T21V86L07A5678,Oz Classic 20,2022,Entry Door Lock,OC-LK-001,Main access door latch,"Remove inner trim, unscrew lock, install replacement and test latch."
+6T9T21V86L07A5678,Oz Classic 20,2022,Stove Igniter,OC-SI-006,Push-button igniter for cooktop,"Test spark output, replace piezo if no ignition sound."
+6T9T21V86L07A5678,Oz Classic 20,2022,Shower Head,OC-SH-009,12V pressure shower head,"Unscrew hose, check for blockages, replace head."
+6T9T21V86L07A5678,Oz Classic 20,2022,Interior Fan,OC-FN-013,Oscillating 12V fan,"Inspect blade and motor, test voltage, replace unit if burnt out."
+6T9T21V86L07A5678,Oz Classic 20,2022,Step Motor,OC-ST-014,Electric motor for entry step,"Inspect wiring harness, test activation, replace if jammed."
+6T9T21V86L07A5678,Oz Classic 20,2022,Chassis Light,OC-CL-017,Underside LED safety light,"Check ground wiring, replace unit if LEDs flicker."
+6T9T21V86L07A5678,Oz Classic 20,2022,Backup Camera,OC-BC-018,Rear-mount cam
 
