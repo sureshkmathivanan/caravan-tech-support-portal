@@ -21,5 +21,6 @@ VIN,Model,Year,Part Name,Part Code,Part Description,Repair Instructions
 6T9T21V86L07A5678,Oz Classic 20,2022,Interior Fan,OC-FN-013,Oscillating 12V fan,"Inspect blade and motor, test voltage, replace unit if burnt out."
 6T9T21V86L07A5678,Oz Classic 20,2022,Step Motor,OC-ST-014,Electric motor for entry step,"Inspect wiring harness, test activation, replace if jammed."
 6T9T21V86L07A5678,Oz Classic 20,2022,Chassis Light,OC-CL-017,Underside LED safety light,"Check ground wiring, replace unit if LEDs flicker."
-6T9T21V86L07A5678,Oz Classic 20,2022,Backup Camera,OC-BC-018,Rear-mount cam
-
+6T9T21V86L07A5678,Oz Classic 20,2022,Backup Camera,OC-BC-018,Rear-mount camera module,"Verify screen connection, test video feed, replace sensor."
+6T9T21V86L07A5678,Oz Classic 20,2022,Freshwater Tank Sensor,OC-FT-020,Level sensor for water tank,"Test continuity, clean sensor tips, replace if reading inaccurate."
+6T9T21V86L07A5678,Oz Classic 20,2022,Main Fuse Block,OC-FB-021,Fuse array for 12V circuits,"Check fuses for continuity, replace block if corrosion visible."
